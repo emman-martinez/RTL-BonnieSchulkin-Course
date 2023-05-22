@@ -5,6 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./styles/pages/summary/summaryform.css";
+import "./styles/pages/entry/scoopoption.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
